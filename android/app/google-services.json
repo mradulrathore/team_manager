@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1058886740632",
+    "firebase_url": "https://teammanager-71a32.firebaseio.com",
+    "project_id": "teammanager-71a32",
+    "storage_bucket": "teammanager-71a32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058886740632:android:5859e5ab5fae510ca2beed",
+        "android_client_info": {
+          "package_name": "com.example.team_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058886740632-1a1b8do4roro714t1fkslroiaji675pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrCftOyOY6ReqKhqiP3-FUM6BbVGbOisE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058886740632-1a1b8do4roro714t1fkslroiaji675pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
